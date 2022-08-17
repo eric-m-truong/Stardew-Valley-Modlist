@@ -1,0 +1,7 @@
+{
+  "ToggleKey": "LeftControl",
+  "speedBoost": 2,
+  "staminaDrainConfig": 1,
+  "skillbasedStaminaDrain": true,
+  "LowStaminaWarning": true
+}
