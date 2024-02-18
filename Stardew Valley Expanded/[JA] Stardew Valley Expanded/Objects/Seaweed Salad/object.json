@@ -31,7 +31,7 @@
 	"GiftTastes":
 	{
 	    "Love": [ "Willy" ],
-	    "Like": [ "Wizard", "MarlonFay", "Lance", "Gus", "Linus", "Pierre", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Marlon", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Apples", "Claire", "Martin", "Scarlett", "Abigail", "Sebastian" ],
+	    "Like": [ "Wizard", "MarlonFay", "Lance", "Gus", "Linus", "Pierre", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Apples", "Claire", "Martin", "Scarlett", "Abigail", "Sebastian" ],
 	    "Dislike": [ "Jas", "Vincent", "Leo", "Krobus", "Sam", "Morgan", "Sophia" ],
 	},
 	"TranslationKey": "object.seaweed-salad",

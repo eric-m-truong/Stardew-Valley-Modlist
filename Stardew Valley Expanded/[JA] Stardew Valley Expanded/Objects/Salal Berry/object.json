@@ -8,7 +8,7 @@
 	{
 	    "Love": [ "Leah" ],
 		"Like": [ "Harvey", "Andy", "Lance", "Demetrius", "Evelyn", "George" ],
-		"Neutral": [ "MarlonFay", "Wizard", "Krobus", "Morgan", "Scarlett", "Sophia", "Dwarf", "Leo", "Apples", "GuntherSilvian", "Olivia", "Andy", "Martin", "Victor", "Claire", "Susan", "MorrisTod", "Alex", "Elliott", "Sam", "Sebastian", "Shane", "Emily", "Leah", "Penny", "Caroline", "Clint", "Gus", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Willy" ],
+		"Neutral": [ "MarlonFay", "Wizard", "Krobus", "Morgan", "Scarlett", "Sophia", "Dwarf", "Leo", "Apples", "GuntherSilvian", "Olivia", "Martin", "Victor", "Claire", "Susan", "MorrisTod", "Alex", "Elliott", "Sam", "Sebastian", "Shane", "Emily", "Penny", "Caroline", "Clint", "Gus", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Willy" ],
 	    "Dislike": [ "Haley", "Abigail", "Jas", "Vincent", "Maru" ]
 	},
 	"TranslationKey": "object.salal-berry",

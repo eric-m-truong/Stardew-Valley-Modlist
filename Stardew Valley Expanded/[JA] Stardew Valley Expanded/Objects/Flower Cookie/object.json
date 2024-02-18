@@ -31,7 +31,7 @@
 	"GiftTastes":
 	{
 	    "Love": [ "Sophia" ],
-	    "Like": [ "Jas", "Vincent", "Sam", "Morgan", "Sophia", "Wizard", "MarlonFay", "Lance", "Gus", "Linus", "Pierre", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Marlon", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Apples", "Claire", "Martin", "Scarlett", "Abigail", "Sebastian" ],
+	    "Like": [ "Jas", "Vincent", "Sam", "Morgan", "Wizard", "MarlonFay", "Lance", "Gus", "Linus", "Pierre", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Apples", "Claire", "Martin", "Scarlett", "Abigail", "Sebastian" ],
 	    "Dislike": [ "Krobus", "Willy", "Harvey", "Leo" ],
 	},
 	"TranslationKey": "object.flower-cookie",

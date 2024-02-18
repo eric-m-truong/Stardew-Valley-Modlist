@@ -5,7 +5,7 @@
 	"Category": "Greens",
 	"GiftTastes":
 	{
-		"Like": [ "Krobus", "Wizard", "Morgan", "Scarlett", "Lance", "Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
+		"Like": [ "Krobus", "Wizard", "Morgan", "Scarlett", "Lance", "MarlonFay", "GuntherSilvian", "Abigail", "Apples", "Leo", "Sophia", "Claire", "Olivia", "Martin", "Andy", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Sebastian", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "George", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy"]
 	},
 	"TranslationKey": "object.lucky-four-leaf-clover",
 }

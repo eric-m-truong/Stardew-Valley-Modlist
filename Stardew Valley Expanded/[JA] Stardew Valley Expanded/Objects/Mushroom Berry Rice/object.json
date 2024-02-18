@@ -31,8 +31,8 @@
 	"GiftTastes":
 	{
  		"Like": [ "MarlonFay", "Lance" ],
-		"Neutral": [ "Wizard" ],
-	    "Hate": [ "Gus", "Linus", "Pierre", "Willy", "Emily", "Jas", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Marlon", "Sam", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Morgan", "Apples", "Claire", "Martin", "Scarlett", "Vincent", "Abigail", "Sebastian", "Sophia", "Morgan" ]
+		"Neutral": [ "Wizard", "Krobus" ],
+	    "Hate": [ "Gus", "Linus", "Leo", "Pierre", "Willy", "Emily", "Jas", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Evelyn", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Sam", "Leah", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "Sandy", "MorrisTod", "GuntherSilvian", "Andy", "Susan", "Victor", "Olivia", "Apples", "Claire", "Martin", "Scarlett", "Vincent", "Abigail", "Sebastian", "Sophia", "Morgan" ]
 	},
 	"TranslationKey": "object.mushroom-berry-rice",
 }

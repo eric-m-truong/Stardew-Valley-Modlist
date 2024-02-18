@@ -30,8 +30,8 @@
 	"IsColored": false,
 	"GiftTastes":
 	{
-	    "Love": [ "Susan", "Claire", "Sophia", "Leah", "Jas", "Vincent", "Martin", "Andy", "Evelyn", "Sandy" ],
-		"Like": [ "Wizard", "Linus", "Pierre", "Willy", "MarlonFay", "Gus", "Scarlett", "Abigail", "Sebastian", "Morgan", "Lance", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Sam", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "MorrisTod", "GuntherSilvian", "Victor", "Olivia", "Morgan", "Apples" ],
+	    "Love": [ "Susan", "Claire", "Sophia", "Leah", "Jas", "Vincent", "Martin", "Andy", "Evelyn", "Sandy", "Leo" ],
+		"Like": [ "Wizard", "Linus", "Krobus", "Pierre", "Willy", "MarlonFay", "Gus", "Scarlett", "Abigail", "Sebastian", "Morgan", "Lance", "Emily", "Robin", "Demetrius", "Maru", "Caroline", "Alex", "George", "Lewis", "Clint", "Penny", "Pam", "Haley", "Jodi", "Kent", "Sam", "Shane", "Marnie", "Elliott", "Dwarf", "Harvey", "MorrisTod", "GuntherSilvian", "Victor", "Olivia", "Apples" ],
 	},
 	"TranslationKey": "object.mixed-berry-pie",
 }

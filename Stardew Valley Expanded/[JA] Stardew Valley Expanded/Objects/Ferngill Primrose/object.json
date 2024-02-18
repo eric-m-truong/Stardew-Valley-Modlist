@@ -7,7 +7,7 @@
 	"GiftTastes":
 	{
 	    "Love": [ "Sandy" ],
-		"Like": [ "Sophia", "Krobus", "Wizard", "Morgan", "Scarlett", "Lance", "Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Apples", "Leo", "Olivia", "Claire", "Martin", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Sandy", "Vincent", "Willy" ],
+		"Like": [ "Sophia", "Krobus", "Wizard", "Morgan", "Scarlett", "Lance", "Morgan", "MarlonFay", "GuntherSilvian", "Abigail", "Apples", "Leo", "Olivia", "Claire", "Martin", "Victor", "Susan", "MorrisTod", "Alex", "Elliott", "Harvey", "Sam", "Shane", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Dwarf", "Evelyn", "Gus", "Jas", "Jodi", "Kent", "Lewis", "Linus", "Marnie", "Pam", "Pierre", "Robin", "Vincent", "Willy" ],
 	    "Dislike": [ "Andy", "George", "Sebastian" ],
 	},
 	"TranslationKey": "object.ferngill-primrose",
